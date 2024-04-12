@@ -4,7 +4,7 @@ python-dotenv~=1.0.0
 cmapy~=0.6.6
 Pillow~=10.0.1
 numpy~=1.26.0
-setuptools~=68.2.2
+setuptools~=69.4.0
 Flask~=3.0.0
 psycopg2~=2.9.9; sys_platform != 'linux'
 psycopg2-binary~=2.9.9; sys_platform == 'linux'
